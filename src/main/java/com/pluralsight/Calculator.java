@@ -13,7 +13,7 @@ public class Calculator {
         System.out.println("Enter the second number: ");
         int number2 = reader.nextInt();
 
-        //making the operation
+        //making the operation and displaying results
         int result = number1 * number2;
         System.out.println("The multiplication of these numbers is: " + result);
 
