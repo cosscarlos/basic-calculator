@@ -17,5 +17,6 @@ public class Calculator {
         int result = number1 * number2;
         System.out.println("The multiplication of these numbers is: " + result);
 
+
     }
 }
